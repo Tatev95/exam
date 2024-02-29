@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "id": "4841",
+      "title": "fff",
+      "description": "frfr",
+      "year": 2022,
+      "country": "USA",
+      "rating": 4,
+      "genres": ["drama"],
+      "actors": ["Actor1"],
+      "imageUrl": "https://www.google.com/search?q=tom+and+jerry&sca_esv=c796b4c45112019f&rlz=1C1CHZN_enAM1049AM1049&tbm=isch&sxsrf=ACQVn0-HCPVzCJRbMlbNbiGPq-zaw2jmvg:1709231176806&source=lnms&sa=X&ved=2ahUKEwj-mIepltGEAxW0R_EDHVPfAsUQ0pQJegQIAhAE&biw=1920&bih=945&dpr=1#imgrc=8QqrDJ5dC-vOsM",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "d6c1",
+      "title": "new",
+      "description": "dwed",
+      "year": 2018,
+      "country": "Armenia",
+      "rating": 5,
+      "genres": ["drama"],
+      "actors": ["actor 2", " actor3"],
+      "imageUrl": "https://www.google.com/search?q=tom+and+jerry&sca_esv=c796b4c45112019f&rlz=1C1CHZN_enAM1049AM1049&tbm=isch&sxsrf=ACQVn0-HCPVzCJRbMlbNbiGPq-zaw2jmvg:1709231176806&source=lnms&sa=X&ved=2ahUKEwj-mIepltGEAxW0R_EDHVPfAsUQ0pQJegQIAhAE&biw=1920&bih=945&dpr=1#imgrc=8QqrDJ5dC-vOsM",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    },
+    {
+      "id": "a115",
+      "title": "nor",
+      "description": "nor",
+      "year": 1990,
+      "country": "Hayastan",
+      "rating": 5,
+      "genres": ["katakergutyun"],
+      "actors": ["actor1 actor5"],
+      "imageUrl": "https://www.google.com/search?q=tom+and+jerry&sca_esv=c796b4c45112019f&rlz=1C1CHZN_enAM1049AM1049&tbm=isch&sxsrf=ACQVn0-HCPVzCJRbMlbNbiGPq-zaw2jmvg:1709231176806&source=lnms&sa=X&ved=2ahUKEwj-mIepltGEAxW0R_EDHVPfAsUQ0pQJegQIAhAE&biw=1920&bih=945&dpr=1#imgrc=8QqrDJ5dC-vOsM",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+    },
+    {
+      "id": "c5a8",
+      "title": "նոր",
+      "description": "նոր ֆիլմ",
+      "year": 2021,
+      "country": "Հայաստան",
+      "rating": 2,
+      "genres": ["դրամա"],
+      "actors": ["actor 2 actor3"],
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt30135489%2F&psig=AOvVaw2EUwnGiLoxJzfAPQx7Avhp&ust=1709317578155000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICI4auW0YQDFQAAAAAdAAAAABAE",
+      "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+    }
+  ]
+}

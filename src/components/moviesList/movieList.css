@@ -1,0 +1,19 @@
+.movie_card {
+  display: flex;
+  border: 1px solid gray;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 5px;
+  background-color: azure;
+  margin-top: 10px;
+}
+
+.movie_description {
+  display: flex;
+  width: 200px;
+  flex-wrap: wrap;
+}
+
+.movies_list {
+  cursor: pointer;
+}
